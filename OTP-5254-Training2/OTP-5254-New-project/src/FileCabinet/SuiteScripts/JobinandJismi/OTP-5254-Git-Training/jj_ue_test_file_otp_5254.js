@@ -28,6 +28,8 @@ define(['N/record'],
          * @param {string} scriptContext.type - Trigger type; use values from the context.UserEventType enum
          * @since 2015.2
          */
+         // bjnmkkuuuuuuu
+
         const beforeSubmit = (scriptContext) => {
 
         }
