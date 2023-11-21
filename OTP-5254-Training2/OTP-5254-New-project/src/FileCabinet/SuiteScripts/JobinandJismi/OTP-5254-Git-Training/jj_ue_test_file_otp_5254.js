@@ -29,6 +29,7 @@ define(['N/record'],
          * @since 2015.2
          */
          // bjp
+         // nnmkii
 
         const beforeSubmit = (scriptContext) => {
 
